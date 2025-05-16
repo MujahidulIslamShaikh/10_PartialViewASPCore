@@ -1,0 +1,21 @@
+﻿@model IEnumerable<ParitialViewASPCore.Models.Product>
+
+
+@{
+    ViewData["Title"] = "ShowCards";
+}
+
+<h1>ShowCards</h1>
+
+
+<div class="container border">
+    <div class="row border">
+        @foreach (var item in Model)
+        {
+             <div class="col-md-4"> 
+            @* <partial name="_ProductPartialView" model="item" /> *@
+                @await Html.PartialAsync("_ProductPartialView",item)
+            </div> 
+        }
+    </div>
+</div>

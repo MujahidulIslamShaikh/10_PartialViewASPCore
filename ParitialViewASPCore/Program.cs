@@ -1,7 +1,18 @@
+using Microsoft.EntityFrameworkCore;
+using ParitialViewASPCore.Data;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+//ServiceProvider provider = builder.Services.BuildServiceProvider();
+//var config = provider.GetRequiredService<IConfiguration>();   // Generic method 
+//builder.Services.AddDbContext<ApplicatinContext>(item => item.UseSqlServer(config.GetConnectionString("ConString")));
+
+builder.Services.AddDbContext<ApplicatinContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("ConString")));
+
 
 var app = builder.Build();
 

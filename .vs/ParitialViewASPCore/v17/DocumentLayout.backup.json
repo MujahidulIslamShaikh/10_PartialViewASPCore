@@ -1,12 +1,156 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\name\\source\\repos\\ParitialViewASPCore\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\name\\source\\repos\\10_ParitialViewASPCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C84B5F3E-A471-476B-8089-3E1D4AC2FAE8}|ParitialViewASPCore\\ParitialViewASPCore.csproj|c:\\users\\name\\source\\repos\\10_paritialviewaspcore\\paritialviewaspcore\\views\\shared\\_productpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C84B5F3E-A471-476B-8089-3E1D4AC2FAE8}|ParitialViewASPCore\\ParitialViewASPCore.csproj|solutionrelative:paritialviewaspcore\\views\\shared\\_productpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C84B5F3E-A471-476B-8089-3E1D4AC2FAE8}|ParitialViewASPCore\\ParitialViewASPCore.csproj|c:\\users\\name\\source\\repos\\10_paritialviewaspcore\\paritialviewaspcore\\views\\home\\showcards.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C84B5F3E-A471-476B-8089-3E1D4AC2FAE8}|ParitialViewASPCore\\ParitialViewASPCore.csproj|solutionrelative:paritialviewaspcore\\views\\home\\showcards.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C84B5F3E-A471-476B-8089-3E1D4AC2FAE8}|ParitialViewASPCore\\ParitialViewASPCore.csproj|c:\\users\\name\\source\\repos\\10_paritialviewaspcore\\paritialviewaspcore\\views\\home\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C84B5F3E-A471-476B-8089-3E1D4AC2FAE8}|ParitialViewASPCore\\ParitialViewASPCore.csproj|solutionrelative:paritialviewaspcore\\views\\home\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C84B5F3E-A471-476B-8089-3E1D4AC2FAE8}|ParitialViewASPCore\\ParitialViewASPCore.csproj|c:\\users\\name\\source\\repos\\10_paritialviewaspcore\\paritialviewaspcore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C84B5F3E-A471-476B-8089-3E1D4AC2FAE8}|ParitialViewASPCore\\ParitialViewASPCore.csproj|solutionrelative:paritialviewaspcore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C84B5F3E-A471-476B-8089-3E1D4AC2FAE8}|ParitialViewASPCore\\ParitialViewASPCore.csproj|c:\\users\\name\\source\\repos\\10_paritialviewaspcore\\paritialviewaspcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C84B5F3E-A471-476B-8089-3E1D4AC2FAE8}|ParitialViewASPCore\\ParitialViewASPCore.csproj|solutionrelative:paritialviewaspcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C84B5F3E-A471-476B-8089-3E1D4AC2FAE8}|ParitialViewASPCore\\ParitialViewASPCore.csproj|c:\\users\\name\\source\\repos\\10_paritialviewaspcore\\paritialviewaspcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C84B5F3E-A471-476B-8089-3E1D4AC2FAE8}|ParitialViewASPCore\\ParitialViewASPCore.csproj|solutionrelative:paritialviewaspcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C84B5F3E-A471-476B-8089-3E1D4AC2FAE8}|ParitialViewASPCore\\ParitialViewASPCore.csproj|c:\\users\\name\\source\\repos\\10_paritialviewaspcore\\paritialviewaspcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C84B5F3E-A471-476B-8089-3E1D4AC2FAE8}|ParitialViewASPCore\\ParitialViewASPCore.csproj|solutionrelative:paritialviewaspcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C84B5F3E-A471-476B-8089-3E1D4AC2FAE8}|ParitialViewASPCore\\ParitialViewASPCore.csproj|c:\\users\\name\\source\\repos\\10_paritialviewaspcore\\paritialviewaspcore\\data\\applicatincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C84B5F3E-A471-476B-8089-3E1D4AC2FAE8}|ParitialViewASPCore\\ParitialViewASPCore.csproj|solutionrelative:paritialviewaspcore\\data\\applicatincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cshtml",
+              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\10_ParitialViewASPCore\\ParitialViewASPCore\\Views\\Home\\Product.cshtml",
+              "RelativeDocumentMoniker": "ParitialViewASPCore\\Views\\Home\\Product.cshtml",
+              "ToolTip": "C:\\Users\\name\\source\\repos\\10_ParitialViewASPCore\\ParitialViewASPCore\\Views\\Home\\Product.cshtml",
+              "RelativeToolTip": "ParitialViewASPCore\\Views\\Home\\Product.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwCIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T23:13:42.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\10_ParitialViewASPCore\\ParitialViewASPCore\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ParitialViewASPCore\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\name\\source\\repos\\10_ParitialViewASPCore\\ParitialViewASPCore\\Models\\Product.cs",
+              "RelativeToolTip": "ParitialViewASPCore\\Models\\Product.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T23:01:15.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\10_ParitialViewASPCore\\ParitialViewASPCore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ParitialViewASPCore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\name\\source\\repos\\10_ParitialViewASPCore\\ParitialViewASPCore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ParitialViewASPCore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAkwB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T22:54:59.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShowCards.cshtml",
+              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\10_ParitialViewASPCore\\ParitialViewASPCore\\Views\\Home\\ShowCards.cshtml",
+              "RelativeDocumentMoniker": "ParitialViewASPCore\\Views\\Home\\ShowCards.cshtml",
+              "ToolTip": "C:\\Users\\name\\source\\repos\\10_ParitialViewASPCore\\ParitialViewASPCore\\Views\\Home\\ShowCards.cshtml*",
+              "RelativeToolTip": "ParitialViewASPCore\\Views\\Home\\ShowCards.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T22:51:26.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ProductPartialView.cshtml",
+              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\10_ParitialViewASPCore\\ParitialViewASPCore\\Views\\Shared\\_ProductPartialView.cshtml",
+              "RelativeDocumentMoniker": "ParitialViewASPCore\\Views\\Shared\\_ProductPartialView.cshtml",
+              "ToolTip": "C:\\Users\\name\\source\\repos\\10_ParitialViewASPCore\\ParitialViewASPCore\\Views\\Shared\\_ProductPartialView.cshtml",
+              "RelativeToolTip": "ParitialViewASPCore\\Views\\Shared\\_ProductPartialView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T22:46:22.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\10_ParitialViewASPCore\\ParitialViewASPCore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ParitialViewASPCore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\name\\source\\repos\\10_ParitialViewASPCore\\ParitialViewASPCore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ParitialViewASPCore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswBoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T22:33:31.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\10_ParitialViewASPCore\\ParitialViewASPCore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ParitialViewASPCore\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\name\\source\\repos\\10_ParitialViewASPCore\\ParitialViewASPCore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ParitialViewASPCore\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwB4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T22:31:22.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicatinContext.cs",
+              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\10_ParitialViewASPCore\\ParitialViewASPCore\\Data\\ApplicatinContext.cs",
+              "RelativeDocumentMoniker": "ParitialViewASPCore\\Data\\ApplicatinContext.cs",
+              "ToolTip": "C:\\Users\\name\\source\\repos\\10_ParitialViewASPCore\\ParitialViewASPCore\\Data\\ApplicatinContext.cs",
+              "RelativeToolTip": "ParitialViewASPCore\\Data\\ApplicatinContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T22:22:15.642Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

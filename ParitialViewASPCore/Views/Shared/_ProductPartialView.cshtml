@@ -1,0 +1,11 @@
+﻿@model ParitialViewASPCore.Models.Product // ye view strongly type View hai kuiki ye view bind hogya Product Model se 
+
+<div class="card" style="width: 18rem;">
+    <img src="~/images/@Model.ImagePath" asp-append-version="true" class="card-img-top" alt="...">
+    <div class="card-body">
+        <h5 class="card-title">@Model.Name</h5>
+        <p class="card-text">@Model.Desc</p>
+        <p class="card-text">@Model.Price</p>
+        <a href="#" class="btn btn-primary">View Product</a>
+    </div>
+</div>

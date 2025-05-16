@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ParitialViewASPCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f39f0c1874b871f6e4bf9ed9c404de7d1d74e61d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ParitialViewASPCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ParitialViewASPCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
